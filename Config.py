@@ -1,0 +1,1 @@
+#Constants, presetsDEFAULT_CORE_HEAT_CAPACITY = 5e6  # J/K, arbitrary scalingDEFAULT_INITIAL_TEMP = 300.0      # KDEFAULT_INITIAL_FLUX = 1.0        # normalizedMELTDOWN_TEMP = 1200              # KSCRAM_REACTIVITY = 0.2
